@@ -1,0 +1,8 @@
+1. project -> done
+2. html description ->done 
+3. landing page -> done
+4. preview screenshort-> 
+5. documentation-> 
+6. inline-preview image -> done
+7. thumbnail-image -> done
+8. Project overview video-> 
